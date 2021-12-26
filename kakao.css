@@ -1,0 +1,69 @@
+    .frame {
+        height: 800px;
+        width: 480px;
+        margin: 0 auto;
+    }
+
+    .first_frame {
+        height: 480px;
+        width: 480px;
+        background-color: purple;
+    }
+
+    .second_frame {
+        height: 320px;
+        width: 480px;
+        background-color: white;
+    }
+
+    .fnbtn {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .mainfont {
+        padding-top: 250px;
+        text-align: center;
+    }
+
+    .myfont {
+        font-size: small;
+    }
+
+    .myimage {
+        height: 70px;
+        width: 70px
+    }
+
+    .fnbtn-group {
+        display: flex;
+        justify-content: space-evenly;
+        flex-direction: row;
+        margin-top: 200px;
+    }
+
+    .mainposition {
+        position: absolute;
+        top: 420px;
+        left: 675px;
+    }
+
+    .mainframe {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .mainphoto {
+        border-radius: 70%;
+        height: 150px;
+        width: 150px;
+    }
+
+
+    #bg_txt {
+        color: white;
+    }
